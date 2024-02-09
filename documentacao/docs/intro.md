@@ -11,7 +11,7 @@ slug: "/"
 
 &nbsp;&nbsp;&nbsp;&nbsp;Aqui, as células estão sempre dividindo, mas não por motivos emocionais. Os genes estão sempre dando uma festa chamada replicação, e a mitocôndria é a DJ que nunca para. Será que os organelos também têm crises existenciais?
 
-&nbsp;&nbsp;&nbsp;&nbsp;Descubra fatos que nunca ensinaram na sala de aula, como o fato de que as baleias 🐳 são descendentes de animais terrestres ou que os elefantes 🐘 podem ouvir os rugidos estomacais uns dos outros a quilômetros de distância, ou até mesmo a pergunta que não quer calar: Quem vem primeiro, **o ovo🥚 ou a galinha🐔**?. A natureza é tão surpreendente que às vezes parece que o mundo foi criado como um jogo de tabuleiro e decidiu inventar animais bizarros apenas para se divertir.
+&nbsp;&nbsp;&nbsp;&nbsp;Descubra fatos que nunca ensinaram na sala de aula, como o fato de que as baleias 🐳 são descendentes de animais terrestres ou que os elefantes 🐘 podem ouvir os rugidos estomacais uns dos outros a quilômetros de distância, ou até mesmo a pergunta que não quer calar: Quem vem primeiro, **o ovo🥚 ou a galinha🐔**? A natureza é tão surpreendente que às vezes parece que o mundo foi criado como um jogo de tabuleiro e decidiu inventar animais bizarros apenas para se divertir.
 
 ![Bichos comendo](https://media.tenor.com/-8TmOhlDn6sAAAAM/having-a-snack.gif)
 

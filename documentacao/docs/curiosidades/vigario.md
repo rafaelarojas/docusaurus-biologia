@@ -1,6 +1,6 @@
 # Conto do Vigário
 
-&nbsp;&nbsp;&nbsp;&nbsp;Você com certeza já ouviu ou falou **"Eu nasci pobre mas não nasci otário, eu é que não caio no conto do vigário"**, pobre você até pode ter nascido, mas agora será um pobre inteligente por saber o que essa frase significa.
+&nbsp;&nbsp;&nbsp;&nbsp;Você com certeza já ouviu ou falou **"Eu nasci pobre mas não nasci otário, eu é que não caio no conto do vigário"**, pobre você até pode ter nascido, mas agora será um pobre inteligente por saber o que essa frase significa no meme abaixo.
 
 ![Meme vigário](https://pbs.twimg.com/media/GFwvTipWsAAinPm?format=jpg&name=900x900)
 
