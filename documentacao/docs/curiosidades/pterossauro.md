@@ -1,0 +1,11 @@
+# Pterossauros não são dinossauros
+
+&nbsp;&nbsp;&nbsp;&nbsp;Pois é, isso mesmo que você ouviu, sua infância foi uma mentira. Os **Pterossauros não são dinossauros**. São répteis voadores pertencentes a um clado distinto. Os únicos dinossauros voadores são as aves.
+
+![Pterossauro](https://2.bp.blogspot.com/-RlJWxeZEX3k/WhCDhDOmtWI/AAAAAAAA3e8/CRs3NCiPjJUJ8Enl60zGWXanbV275tMEwCLcBGAs/s1600/Pteranodon.jpg)
+
+&nbsp;&nbsp;&nbsp;&nbsp;Nesse sentido, é errado pensar que esses animais seriam a ligação evolucionária direta entre dinossauros e nossas atuais aves: dinossauros terópodes aviários são ancestrais diretos das aves modernas, e não pterossauros. Aliás, outros répteis pré-históricos, especialmente os marinhos, são também erroneamente classificados como dinossauros pelo público geral,  e podemos citar como exemplos o Ictiossauro, o Plesiossauro e o Mosassauro.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Os pterossauros são répteis voadores pré-históricos da Era Mesozoica, pertencentes à ordem Pterosauria. Esses animais viveram do período Triássico até o período do Cretáceo, espalhando-se por todo o planeta durante cerca de 145 milhões de anos. Os registros mais antigos dos fósseis desses animais já encontrados datam aproximadamente 210 milhões de anos atrás, e mais de 1000 espécies já foram descritas até o momento. Os primeiros pterossauros evoluíram há cerca de pelo menos 215 milhões de anos, sendo extintos há cerca de 66 milhões de anos. Mas apesar dos pterossauros e dos dinossauros terem coexistido entre 230 e 66 milhões de anos atrás, é importante reforçar que **pterossauros não eram dinossauros**, estes últimos fazendo parte do clado Dinosauria.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Mas os Pterossauros já causaram - e ainda causam - uma grande confusão também no meio acadêmico, em relação à capacidade de voo desses animais. Amplamente lembrados por serem os primeiros vertebrados conhecidos no planeta a voarem, até hoje não se sabe ao certo os mecanismos que controlavam o voo desses animais, especialmente a propulsão inicial ("decolagem").
