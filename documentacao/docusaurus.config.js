@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -42,7 +42,6 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
-    
         },
         blog: {
           showReadingTime: true,
@@ -61,15 +60,14 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Docusaurus Biologia',
+        title: 'Biologia',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/perfil.jpg',
+          src: 'img/docusaurus.png',
         },
         items: [
-          {to: '/docs', label:'Curiosidades', position: 'left'},
-          {to: '/blog', label: 'Blog', position: 'left'},
-        
+          { to: '/docs', label: 'Curiosidades', position: 'left' },
+          { to: '/blog', label: 'Blog', position: 'left' },
         ],
       },
       footer: {
