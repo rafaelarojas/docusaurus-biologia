@@ -4,16 +4,16 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import { themes as prismThemes } from 'prism-react-renderer';
+import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Docusaurus Biologia',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/perfil.jpg',
+  title: 'Curiosidades de biologia',
+  tagline: 'Venha se aventurar pelo mundo da biologia',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://rafaelarojas.github.com',
+  url: 'https://rafaelarojas.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/docusaurus-biologia/',
@@ -23,15 +23,15 @@ const config = {
   organizationName: 'rafaelarojas', // Usually your GitHub org/user name.
   projectName: 'docusaurus-biologia', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'pt-br',
-    locales: ['pt-br'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   presets: [
@@ -42,10 +42,13 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            routeBasePath: '/'
         },
         blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
+          showReadingTime: false,
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -60,18 +63,54 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Biologia',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/docusaurus.png',
-        },
+        title: 'Docusaurus Biologia',
         items: [
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Biologia',
+          },
+          {
+            href: 'https://github.com/rafaelarojas',
+            label: 'GitHub',
+            position: 'right',
+          },
           { to: '/docs', label: 'Curiosidades', position: 'left' },
           { to: '/blog', label: 'Blog', position: 'left' },
         ],
       },
       footer: {
         style: 'dark',
+        links: [
+          {
+            title: 'Página Inicial',
+            items: [
+              {
+                label: 'Biologia',
+                to: '/docusaurus-biologia',
+              },
+            ],
+          },
+          {
+            title: 'LinkedIn',
+            items: [
+              {
+                label: 'Rafaela-Rojas',
+                href: 'https://www.linkedin.com/in/rafaelarojas/',
+              },
+            ],
+          },
+          {
+            title: 'GitHub',
+            items: [
+              {
+                label: 'Rafaela Rojas',
+                href: 'https://github.com/rafaelarojas',
+              },
+            ],
+          },
+        ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
