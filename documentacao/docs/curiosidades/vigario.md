@@ -6,7 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;O meme é baseado em uma **real espécie de ave** e em uma **real arquitetura de ninho**.
 
-&nbsp;&nbsp;&nbsp;&nbsp;O Chapim-Pendulino-do-Cabo (*Anthoscopus minutus*) é uma pequena espécie insetívora de ave da família Remizidae que habita várias regiões no sul da África - em especial savanas secas e biomas arbustivos secos tropicais ou subtropicais. 
+&nbsp;&nbsp;&nbsp;&nbsp;O Chapim-Pendulino-do-Cabo (*Anthoscopus minutus*) é uma pequena espécie insetívora de ave da família Remizidae que habita várias regiões no sul da África - em especial savanas secas e biomas arbustivos secos tropicais ou subtropicais.
 
 ![Chapim-Pendulino-do-Cabo](https://pbs.twimg.com/media/GFziItCW8AA_m8t?format=jpg&name=900x900)
 
