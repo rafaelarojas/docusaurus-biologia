@@ -67,7 +67,7 @@ const config = {
           src: 'img/perfil.jpg',
         },
         items: [
-          {to: '/docs/', label:'Tutorial', position: 'left'},
+          {to: '/docs', label:'Curiosidades', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
         
         ],
